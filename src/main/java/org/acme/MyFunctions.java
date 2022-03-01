@@ -1,5 +1,6 @@
 package org.acme;
 
+import javax.inject.Inject;
 import io.quarkus.funqy.Funq;
 
 public class MyFunctions {
